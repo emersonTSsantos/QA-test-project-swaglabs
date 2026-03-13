@@ -9,7 +9,7 @@ https://www.saucedemo.com/
 
 Este aplicativo simula uma plataforma de e-commerce e é comumente usado para testes práticos.
 
-Credenciais de Teste:
+## Credenciais de Teste:
 
 Nome de usuário: standard_user
 
