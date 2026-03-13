@@ -7,6 +7,13 @@ O objetivo deste projeto é demonstrar o processo de garantia da qualidade em um
 O sistema em teste é o aplicativo de demonstração da Swag Labs:
 https://www.saucedemo.com/
 
+Este aplicativo simula uma plataforma de e-commerce e é comumente usado para testes práticos.
+
+Credenciais de Teste:
+
+Nome de usuário: standard_user
+Senha: secret_sauce
+
 ## Objetivos do Projeto
 
 - Análise de requisitos
@@ -27,6 +34,16 @@ https://www.saucedemo.com/
 - Teste de caixa preta
 - BDD (Gherkin)
 - Mapeamento mental para elaboração de testes
+
+## Escopo do Teste
+
+As seguintes funcionalidades serão analisadas e testadas:
+
+- Login do usuário
+- Listagem de produtos
+- Adicionar produto ao carrinho
+- Remover produto do carrinho
+- Processo de finalização da compra
 
 ## Estrutura do Repositório
 
