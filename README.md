@@ -12,6 +12,7 @@ Este aplicativo simula uma plataforma de e-commerce e é comumente usado para te
 Credenciais de Teste:
 
 Nome de usuário: standard_user
+
 Senha: secret_sauce
 
 ## Objetivos do Projeto
